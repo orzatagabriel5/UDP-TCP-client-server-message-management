@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/gabriel/Desktop/CURSURI/Anul2/PC/Orzata_Gabriel-Nicusor_tema2_323CB'
+g++ -Wall -g -std=c++11 server.cpp -o server
+g++ -Wall -g -std=c++11 subscriber.cpp -o subscriber
+make: Leaving directory '/home/gabriel/Desktop/CURSURI/Anul2/PC/Orzata_Gabriel-Nicusor_tema2_323CB'
+ 
